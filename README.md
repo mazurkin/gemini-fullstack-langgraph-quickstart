@@ -28,3 +28,7 @@ make docker-build
 ```shell
 make docker-run
 ```
+
+endpoints:
+- http://localhost:8123/app/ (UI)
+- http://localhost:8123 (API)
